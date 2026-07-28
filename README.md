@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amanag43/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Amanag43/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Amanag43/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Amanag43/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amanag43/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Amanag43/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amanag43/Leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
