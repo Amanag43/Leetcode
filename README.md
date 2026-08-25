@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amanag43/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amanag43/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Amanag43/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Amanag43/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Amanag43/Leetcode/tree/master/0493-reverse-pairs) |
 | [1646-get-maximum-in-generated-array](https://github.com/Amanag43/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amanag43/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amanag43/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amanag43/Leetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Amanag43/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amanag43/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Amanag43/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Amanag43/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Amanag43/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/Amanag43/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
