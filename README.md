@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amanag43/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Amanag43/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Amanag43/Leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Amanag43/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Amanag43/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanag43/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Amanag43/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Amanag43/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Amanag43/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Amanag43/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
