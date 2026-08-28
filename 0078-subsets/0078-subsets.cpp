@@ -4,7 +4,7 @@ class Solution {
     //base case
     if(index>=nums.size()){
      ans.push_back(output);
-         return ;
+         return;
     }
          //exclude
          solve(nums,output,index+1,ans);
