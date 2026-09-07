@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Amanag43/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanag43/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Amanag43/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amanag43/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/Amanag43/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Amanag43/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sliding Window
 |  |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Amanag43/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amanag43/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Amanag43/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Amanag43/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
