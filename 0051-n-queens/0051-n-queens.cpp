@@ -1,7 +1,7 @@
 class Solution {
 public:
     void solve(int col, vector<int> &leftRow, vector<int> & lowerDiagonal, vector<int> & upperDiagonal, vector<string>& board, vector<vector<string>>& ans, int n) {
-        // Base case: If all columns are filled, add the board to the answer
+
         if (col == n) {
             ans.push_back(board);
             return;
