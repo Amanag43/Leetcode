@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Amanag43/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Amanag43/Leetcode/tree/master/0493-reverse-pairs) |
+| [0835-image-overlap](https://github.com/Amanag43/Leetcode/tree/master/0835-image-overlap) |
 | [1646-get-maximum-in-generated-array](https://github.com/Amanag43/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Amanag43/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Amanag43/Leetcode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/Amanag43/Leetcode/tree/master/0835-image-overlap) |
 ## Sorting
 |  |
 | ------- |
