@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Amanag43/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Amanag43/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Amanag43/Leetcode/tree/master/0062-unique-paths) |
+| [0836-rectangle-overlap](https://github.com/Amanag43/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Matrix
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Amanag43/Leetcode/tree/master/0037-sudoku-solver) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Amanag43/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
