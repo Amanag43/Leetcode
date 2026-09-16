@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Amanag43/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Amanag43/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Amanag43/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Amanag43/Leetcode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Amanag43/Leetcode/tree/master/0835-image-overlap) |
 | [1646-get-maximum-in-generated-array](https://github.com/Amanag43/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Amanag43/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Amanag43/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Amanag43/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
