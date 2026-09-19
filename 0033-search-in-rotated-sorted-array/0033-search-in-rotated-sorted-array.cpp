@@ -10,10 +10,7 @@ public:
             if (nums[mid] == target) {
                 return mid;
             }
-
-            // Check if the left half is sorted
             if (nums[low] <= nums[mid]) {
-                // Check if target falls inside the left sorted range
                 if (nums[low] <= target && target < nums[mid]) {
                     high = mid - 1; // Search left
                 } else {
